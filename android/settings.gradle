@@ -1,0 +1,3 @@
+rootProject.name = 'Obtain'
+
+include ':app'
